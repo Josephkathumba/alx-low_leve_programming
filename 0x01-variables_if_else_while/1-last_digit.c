@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Determines whether the random number isgreater than 5, is less than 6, or is 0
+ * main - Determines whether a number is greater than 5,less than 6, or 0
  *
  * Return: Always 0 (Success)
  */
