@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char str[] = {"hello world"};
+int str[] = {1, 22, 58,  7, 45, 1, 25,  6, 8, 98, 0, 5};
 int count, sz;
 sz = sizeof(str) / sizeof(int);
 for (count = 0; count < sz; count++)
