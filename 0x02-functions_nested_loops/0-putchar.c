@@ -1,4 +1,4 @@
-#include "josephk.h"
+#include "main.h"
 /**
  *main - Prints putchar as a message.
  *
