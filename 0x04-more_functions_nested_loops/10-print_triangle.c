@@ -11,7 +11,7 @@ int k, j;
 for (k = 0; k < size; k++)
 {
 for (j = 1; j < (size - k); j++)
-_utchar(' ');
+_putchar(' ');
 for (j--; j < size; j++)
 _putchar(35);
 if (k < (size - 1))
