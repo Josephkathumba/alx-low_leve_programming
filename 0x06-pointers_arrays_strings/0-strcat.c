@@ -14,7 +14,7 @@ while (*(dest + cnt) != '\0')
 {
 cnt++;
 }
-while (cnt2 < n)
+while (cnt2 >= 0)
 {
 *(dest + cnt) = *(src + cnt2);
 if (*(src + cnt2) == '\0')
