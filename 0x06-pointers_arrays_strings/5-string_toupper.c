@@ -14,7 +14,7 @@ while (*(s + cnt) != '\0')
 {
 if ((*(s + cnt) > 96) && (*(s + cnt) < 123))
 *(s + cnt) = *(s + cnt) - 32;
-count++;
+cnt++;
 }
 return (s);
 }
