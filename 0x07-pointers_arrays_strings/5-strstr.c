@@ -23,7 +23,7 @@ haystack++;
 pndle++;
 }
 if (!*pndle)
-  return (bhstack);
+return (bhstack);
 haystack = bhstack + 1;
 }
 return (0);
