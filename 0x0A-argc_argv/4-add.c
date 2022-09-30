@@ -21,6 +21,6 @@ if (!isdigit(argv[i][j]))
 return (1);
 }
 } sum += atoi(argv[i]);
-} printf("%d\n", add);
+} printf("%d\n", sum);
 return (0);
 }
