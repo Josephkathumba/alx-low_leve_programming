@@ -21,5 +21,5 @@ if (q == NULL)
 return (NULL);
 for (j = 0; j < (nmemb * size); j++)
 q[j] = 0;
-return (p);
+return (q);
 }
