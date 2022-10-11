@@ -3,9 +3,9 @@
 #include <stdio.h>
 /**
  *struct dog - structure of dog
- *@name- name of the dog
- *@age-age of the dog
- *@owner - ownwer of the dog
+ *@name: name of the dog
+ *@age: age of the dog
+ *@owner: ownwer of the dog
  *
  */
 struct dog
