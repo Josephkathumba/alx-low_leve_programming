@@ -29,6 +29,6 @@ exit(99);
 }
 x = atoi(argv[1]);
 y = atoi(argv[3]);
-printf("%d\n", operation(x, b));
+printf("%d\n", operation(x, y));
 return (0);
 }
