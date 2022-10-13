@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 /**
+ * main - prints opcodes of main.
  * @argc: argument count.
  * @argv: argument vector.
  * Return: Always 0.
